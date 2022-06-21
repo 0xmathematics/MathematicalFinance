@@ -1,5 +1,4 @@
-# Computational Finance
-My computational finance projects and papers.
+# Computational Finance Papers By Hang Miao
 
 **Variance Reduction Techniques for Pricing Barrier Option**  
 [Paper](Variance_Reduction_Techniques_for_Pricing_Barrier_Option.pdf)  
