@@ -1,0 +1,3 @@
+C:\Users\Hahn\Desktop\code\Computational Finance\CF3_QuasiMonteCarlo\QuasiMonteCarlo\x64\Debug\QuasiMonteCarlo.exe
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\x64\Debug\QuasiMonteCarlo.exe
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\x64\Debug\QuasiMonteCarlo.exe

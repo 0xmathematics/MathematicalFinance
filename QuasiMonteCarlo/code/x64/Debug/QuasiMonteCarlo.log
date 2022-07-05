@@ -1,0 +1,35 @@
+﻿  AntiThetic.cpp
+  Arrays.cpp
+  BSMformula.cpp
+  ExoticBSEngine.cpp
+  ExoticBSEngineCtrl.cpp
+  ExoticEngine.cpp
+  Main_Quasi_MonteCarlo.cpp
+  MCSamples.cpp
+  MCStatistics.cpp
+  Normals.cpp
+  Parameters.cpp
+  ParkMiller.cpp
+  PathDependent.cpp
+  PathDependentAsian.cpp
+  PayOff3.cpp
+  PayOffBridge.cpp
+  Random2.cpp
+  Random_Sobol.cpp
+  sobol.cpp
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(13855,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(14071,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(14076,5): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(28104,42): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(28320,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(28725,27): warning C4269: 'timeinfo': 'const' automatic data initialized with compiler generated default constructor produces unreliable results
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\sobol.cpp(28725,19): warning C4101: 'timeinfo': unreferenced local variable
+  Statistics.cpp
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\Statistics.cpp(14,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\Statistics.cpp(29,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\Statistics.cpp(40,26): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\Statistics.cpp(49,28): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\Statistics.cpp(53,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\source\Statistics.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  QuasiMonteCarlo.vcxproj -> C:\Users\Hahn\Desktop\github\ComputationalFinance\QuasiMonteCarlo\code\x64\Debug\QuasiMonteCarlo.exe
