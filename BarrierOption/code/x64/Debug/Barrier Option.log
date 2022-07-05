@@ -1,0 +1,29 @@
+﻿  AntiThetic.cpp
+  Arrays.cpp
+  BarrierFormula.cpp
+  BSMformula.cpp
+  ConvergenceTable.cpp
+  ExoticBSEngine.cpp
+  ExoticBSEngineCtrl.cpp
+  ExoticEngine.cpp
+  Main_BarrierOption.cpp
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Main_BarrierOption.cpp(179,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Main_BarrierOption.cpp(180,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MCSamples.cpp
+  MCStatistics.cpp
+  Normals.cpp
+  Parameters.cpp
+  ParkMiller.cpp
+  PathDependent.cpp
+  PathDependentBarrier.cpp
+  PayOff3.cpp
+  PayOffBridge.cpp
+  Random2.cpp
+  Statistics.cpp
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Statistics.cpp(14,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Statistics.cpp(29,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Statistics.cpp(40,26): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Statistics.cpp(44,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\Barrier Option\Statistics.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Barrier Option.vcxproj -> C:\Users\Hahn\Desktop\github\ComputationalFinance\BarrierOption\code\x64\Debug\Barrier Option.exe
