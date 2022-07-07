@@ -1,8 +1,8 @@
 # Computational Finance Papers By Hang Miao
 
 
-**Monte Carlo and Quasi Monte Carlo**  
-[Paper](QuasiMonteCarlo/Monte_Carlo_and_Quasi_Monte_Carlo.pdf)  
+**Monte Carlo and Quasi Monte Carlo for Option Pricing**  
+[Paper](Monte_Carlo_and_Quasi_Monte_Carlo_for_Option_Pricing.pdf)  
 [Associated Codes](QuasiMonteCarlo/)  
 
 **Variance Reduction Techniques for Pricing Barrier Option**  
