@@ -9,6 +9,6 @@
 [Paper](BarrierOption/Variance_Reduction_Techniques_for_Pricing_Barrier_Option.pdf)  
 [Associated Codes](BarrierOption/)  
 
-**Computational Methods for Pricing European Option**  
-[Paper](Computational_Methods_for_Pricing_European_Option.pdf)  
+**Discretization Methods for Option Pricing**  
+[Paper](Discretization_Methods_for_Option_Pricing.pdf)  
 [Associated Codes](EuropeanOption/)  
