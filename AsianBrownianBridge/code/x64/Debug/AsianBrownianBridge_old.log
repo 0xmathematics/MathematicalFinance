@@ -1,0 +1,7 @@
+﻿  Statistics.cpp
+C:\Users\Hahn\Desktop\code\Computational Finance\CF4_AsianBrownianBridge\AsianBrownianBridge_old\source\Statistics.cpp(14,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\code\Computational Finance\CF4_AsianBrownianBridge\AsianBrownianBridge_old\source\Statistics.cpp(29,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\code\Computational Finance\CF4_AsianBrownianBridge\AsianBrownianBridge_old\source\Statistics.cpp(40,26): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Hahn\Desktop\code\Computational Finance\CF4_AsianBrownianBridge\AsianBrownianBridge_old\source\Statistics.cpp(44,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\Hahn\Desktop\code\Computational Finance\CF4_AsianBrownianBridge\AsianBrownianBridge_old\source\Statistics.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+  AsianBrownianBridge_old.vcxproj -> C:\Users\Hahn\Desktop\code\Computational Finance\CF4_AsianBrownianBridge\AsianBrownianBridge_old\x64\Debug\AsianBrownianBridge_old.exe
